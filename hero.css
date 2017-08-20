@@ -11,6 +11,8 @@ header{
 header h1{
 	font-size: 90px;
 	color: white;
+	text-shadow: 0 4px 20px black;
+	text-transform: uppercase;
 }
 
 header img{
@@ -18,6 +20,7 @@ header img{
 	width: 629px;
 	height: 354px;
 	border: 15px solid #002699;
+	box-shadow: 0 10px 20px black;
 }
 
 .content{
